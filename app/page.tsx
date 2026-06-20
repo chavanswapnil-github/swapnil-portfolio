@@ -77,10 +77,7 @@ export default function Home() {
       <section id="about" className="max-w-6xl mx-auto px-6 py-20">
         <h2 className="text-4xl font-bold mb-6">About Me</h2>
         <div className="bg-slate-900 p-8 rounded-2xl">
-         Computer Science & Engineering student with hands-on experience in Java, Spring Boot, MySQL, RESTful API Development, and Data Structures & Algorithms. 
-Strong understanding of Object-Oriented Programming (OOP), DBMS, Opera ng Systems, and Computer Networks. Experienced in designing, implemen ng, 
-and maintaining backend and full-stack applica ons through academic projects and internship experience. Demonstrated problem-solving abili es through 
-coding pla orms and passionate about building scalable so ware solutions.
+         Java Full Stack Developer and Final-Year Computer Science & Engineering student passionate about building scalable web applications using Java, Spring Boot, React, and MySQL. Strong problem-solving skills with hands-on experience in REST APIs, full-stack development, and Data Structures & Algorithms.
         </div>
       </section>
 
