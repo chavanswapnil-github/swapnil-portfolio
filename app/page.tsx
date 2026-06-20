@@ -77,8 +77,10 @@ export default function Home() {
       <section id="about" className="max-w-6xl mx-auto px-6 py-20">
         <h2 className="text-4xl font-bold mb-6">About Me</h2>
         <div className="bg-slate-900 p-8 rounded-2xl">
-          Final-Year B.Tech CSE student at Sandip University with GPA 8.71.
-          Experienced in Java, Spring Boot, MySQL, REST APIs and full-stack development.
+         Computer Science & Engineering student with hands-on experience in Java, Spring Boot, MySQL, RESTful API Development, and Data Structures & Algorithms. 
+Strong understanding of Object-Oriented Programming (OOP), DBMS, Opera ng Systems, and Computer Networks. Experienced in designing, implemen ng, 
+and maintaining backend and full-stack applica ons through academic projects and internship experience. Demonstrated problem-solving abili es through 
+coding pla orms and passionate about building scalable so ware solutions.
         </div>
       </section>
 
