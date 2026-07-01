@@ -43,7 +43,7 @@ export default function Home() {
           <div>
             <p className="text-blue-400 mb-3">AVAILABLE FOR OPPORTUNITIES</p>
             <h1 className="text-5xl md:text-7xl font-bold">
-              Hi, I'm <span className="text-blue-500">Swapnil</span>
+              Hi, I'm <span className="text-blue-500">Swapnil </span>
             </h1>
             <h2 className="text-2xl mt-4 text-slate-300">
               Java Full Stack Developer
